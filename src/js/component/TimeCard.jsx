@@ -2,7 +2,6 @@ import PropTypes from "prop-types";
 import React from "react";
 
 const TimeCard = (props) => {
-	console.log(props.url);
 	return (
 		<div
 			className="card text-white bg-dark border-light mx-1 my-0"
